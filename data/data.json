@@ -1,0 +1,61 @@
+{
+  "businessName": "Dinamita Gym",
+  "heroTitle": "Explota tu potencial",
+  "heroSubtitle": "Página 3.0 ahora ya se comporta como una web real con tienda, categoría y producto.",
+  "bannerPrimary": "",
+  "bannerSecondary": "",
+  "phone": "",
+  "address": "",
+  "hours": "",
+  "maps": "",
+  "facebook": "",
+  "instagram": "",
+  "limitCatalog": 8,
+  "logo": "",
+  "products": [
+    {
+      "id": "P001",
+      "name": "Agua 1L",
+      "price": 14,
+      "stock": 50,
+      "sku": "SKU-0001",
+      "barcode": "750000000001",
+      "category": "agua",
+      "image": "",
+      "description": "Agua 1L pertenece a la categoría agua y actualmente cuenta con 50 pieza(s) disponibles en el catálogo."
+    },
+    {
+      "id": "P002",
+      "name": "Proteína 2lb",
+      "price": 650,
+      "stock": 12,
+      "sku": "SKU-0002",
+      "barcode": "750000000002",
+      "category": "suplemento",
+      "image": "",
+      "description": "Proteína 2lb pertenece a la categoría suplemento y actualmente cuenta con 12 pieza(s) disponibles en el catálogo."
+    },
+    {
+      "id": "P003",
+      "name": "Creatina 300g",
+      "price": 520,
+      "stock": 18,
+      "sku": "SKU-0003",
+      "barcode": "750000000003",
+      "category": "suplemento",
+      "image": "",
+      "description": "Creatina 300g pertenece a la categoría suplemento y actualmente cuenta con 18 pieza(s) disponibles en el catálogo."
+    },
+    {
+      "id": "P004",
+      "name": "Shaker Dinamita",
+      "price": 120,
+      "stock": 25,
+      "sku": "SKU-0004",
+      "barcode": "750000000004",
+      "category": "accesorio",
+      "image": "",
+      "description": "Shaker Dinamita pertenece a la categoría accesorio y actualmente cuenta con 25 pieza(s) disponibles en el catálogo."
+    }
+  ]
+}
